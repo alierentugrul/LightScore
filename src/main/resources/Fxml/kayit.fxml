@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javaproject.Controllers.kayitController">
+
+   <AnchorPane fx:id="loginForm" prefHeight="500.0" prefWidth="702.0" styleClass="background-one" stylesheets="@../Styles/kayit.css" xmlns="http://javafx.com/javafx">
+      <FontAwesomeIconView glyphName="BOLT" layoutX="138.0" layoutY="219.0" size="50" styleClass="gradient-logo" />
+      <Text layoutX="40.0" layoutY="267.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="gradient-text" text="LightScore">
+         <font>
+            <Font name="Gotham-Bold" size="40.0" />
+         </font>
+      </Text>
+      <Label layoutX="479.0" layoutY="148.0" text="Giriş Yap" textFill="WHITE">
+         <font>
+            <Font name="Gotham-Bold" size="18.0" />
+         </font>
+      </Label>
+      <TextField id="username_fld" fx:id="username_fld" layoutX="424.0" layoutY="180.0" prefHeight="28.0" prefWidth="200.0" promptText="Kullanıcı Adı">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="show_password_fld" layoutX="424.0" layoutY="220.0" prefHeight="28.0" prefWidth="200.0" promptText="Şifre" visible="false">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+      </TextField>
+      <PasswordField id="password_fld" fx:id="password_fld" layoutX="424.0" layoutY="220.0" prefHeight="28.0" prefWidth="200.0" promptText="Şifre">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+      </PasswordField>
+      <CheckBox id="show_password" fx:id="show_password" layoutX="424.0" layoutY="262.0" mnemonicParsing="false" onAction="#showPassword" text="Şifreyi Göster" textFill="WHITE">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+      </CheckBox>
+      <JFXButton id="login_btn" fx:id="login_btn" layoutX="424.0" layoutY="300.0" onAction="#loginUser" prefHeight="42.0" prefWidth="202.0" styleClass="btn" text="Giriş Yap" textFill="#3dd5ff" />
+      <HBox layoutX="424.0" layoutY="341.0" prefHeight="21.0" prefWidth="211.0" styleClass="hbox" stylesheets="@../Styles/kayit.css">
+         <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Hesabınız yok mu?">
+            <font>
+               <Font name="Gotham-Book" size="11.0" />
+            </font>
+         </Text>
+         <Hyperlink id="register_link" fx:id="register_link" onAction="#onRegisterLinkClick" prefHeight="27.0" prefWidth="95.0" stylesheets="@../Styles/kayit.css" text="Hesap Oluştur" textFill="WHITE">
+            <font>
+               <Font name="Gotham-Bold" size="11.0" />
+            </font>
+         </Hyperlink>
+      </HBox>
+   </AnchorPane>
+   <AnchorPane fx:id="registerForm" layoutX="10.0" layoutY="10.0" prefHeight="500.0" prefWidth="702.0" styleClass="background-one" stylesheets="@../Styles/kayit.css" visible="false">
+      <FontAwesomeIconView glyphName="BOLT" layoutX="138.0" layoutY="219.0" size="50" styleClass="gradient-logo" />
+      <Text layoutX="40.0" layoutY="267.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="gradient-text" text="LightScore">
+         <font>
+            <Font name="Gotham-Bold" size="40.0" />
+         </font>
+      </Text>
+      <Label layoutX="486.0" layoutY="153.0" text="Kayıt Ol" textFill="WHITE">
+         <font>
+            <Font name="Gotham-Bold" size="18.0" />
+         </font>
+      </Label>
+      <TextField id="email_fld" fx:id="email_fld" layoutX="424.0" layoutY="180.0" prefHeight="28.0" prefWidth="200.0" promptText="E-Posta">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+      </TextField>
+      <PasswordField id="password_add" fx:id="password_add" layoutX="424.0" layoutY="260.0" prefHeight="28.0" prefWidth="200.0" promptText="Şifre">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+      </PasswordField>
+      <JFXButton id="register_btn" fx:id="register_btn" layoutX="424.0" layoutY="342.0" onAction="#registerUser" prefHeight="42.0" prefWidth="202.0" styleClass="btn" text="Kayıt Ol" textFill="WHITE">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+      </JFXButton>
+      <HBox layoutX="453.0" layoutY="387.0" prefHeight="21.0" prefWidth="153.0" styleClass="hbox" stylesheets="@../Styles/kayit.css">
+         <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Hesabınız varsa">
+            <font>
+               <Font name="Gotham-Book" size="11.0" />
+            </font>
+         </Text>
+         <Hyperlink id="login_link" fx:id="login_link" onAction="#onLoginLinkClick" prefHeight="21.0" prefWidth="59.0" stylesheets="@../Styles/kayit.css" text="Giriş Yap" textFill="WHITE">
+            <font>
+               <Font name="Gotham-Bold" size="11.0" />
+            </font>
+         </Hyperlink>
+      </HBox>
+      <TextField id="username_add_fld" fx:id="username_add_fld" layoutX="424.0" layoutY="220.0" prefHeight="28.0" prefWidth="200.0" promptText="Kullanıcı Adı">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+      </TextField>
+      <PasswordField id="password_add_check" fx:id="password_add_check" layoutX="424.0" layoutY="300.0" prefHeight="28.0" prefWidth="200.0" promptText="Şifreyi Doğrula">
+         <font>
+            <Font name="Gotham-Book" size="12.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </PasswordField>
+   </AnchorPane>
+   <AnchorPane fx:id="menuForm" prefHeight="200.0" prefWidth="200.0" visible="false" />
+</StackPane>

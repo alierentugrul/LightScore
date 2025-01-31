@@ -1,0 +1,477 @@
+[
+  {
+    "oyuncular": [
+      {
+        "id": 1,
+        "ad": "Dominik Livaković"
+      },
+      {
+        "id": 2,
+        "ad": "İrfan Can Eğribayat"
+      },
+      {
+        "id": 3,
+        "ad": "Ertuğrul Çetin"
+      },
+      {
+        "id": 4,
+        "ad": "Samet Akaydın"
+      },
+      {
+        "id": 5,
+        "ad": "Çağlar Söyüncü"
+      },
+      {
+        "id": 6,
+        "ad": "Alexander Djiku"
+      },
+      {
+        "id": 7,
+        "ad": "Mert Müldür"
+      },
+      {
+        "id": 8,
+        "ad": "Jayden Oosterwolde"
+      },
+      {
+        "id": 9,
+        "ad": "Rodrigo Becão"
+      },
+      {
+        "id": 10,
+        "ad": "İsmail Yüksek"
+      },
+      {
+        "id": 11,
+        "ad": "Mert Hakan Yandaş"
+      },
+      {
+        "id": 12,
+        "ad": "Fred"
+      },
+      {
+        "id": 13,
+        "ad": "İrfan Can Kahveci"
+      },
+      {
+        "id": 14,
+        "ad": "Sofyan Amrabat"
+      },
+      {
+        "id": 15,
+        "ad": "Sebastian Szymański"
+      },
+      {
+        "id": 16,
+        "ad": "Edin Džeko"
+      },
+      {
+        "id": 17,
+        "ad": "Dušan Tadić"
+      },
+      {
+        "id": 18,
+        "ad": "Youssef En-Nesyri"
+      },
+      {
+        "id": 19,
+        "ad": "Cengiz Ünder"
+      },
+      {
+        "id": 20,
+        "ad": "Bright Osayi-Samuel"
+      },
+      {
+        "id": 21,
+        "ad": "Cenk Tosun"
+      },
+      {
+        "id": 22,
+        "ad": "Allan Saint-Maximin"
+      }
+    ],
+    "toplamPuan": 70,
+    "id": 1,
+    "ad": "Fenerbahçe"
+  },
+  {
+    "oyuncular": [
+      {
+        "id": 1,
+        "ad": "Fernando Muslera"
+      },
+      {
+        "id": 2,
+        "ad": "Kaan Ayhan"
+      },
+      {
+        "id": 3,
+        "ad": "Victor Nelsson"
+      },
+      {
+        "id": 4,
+        "ad": "Davinson Sánchez"
+      },
+      {
+        "id": 5,
+        "ad": "Derrick Köhn"
+      },
+      {
+        "id": 6,
+        "ad": "Sérgio Oliveira"
+      },
+      {
+        "id": 7,
+        "ad": "Lucas Torreira"
+      },
+      {
+        "id": 8,
+        "ad": "Kerem Demirbay"
+      },
+      {
+        "id": 9,
+        "ad": "Hakim Ziyech"
+      },
+      {
+        "id": 10,
+        "ad": "Dries Mertens"
+      },
+      {
+        "id": 11,
+        "ad": "Mauro Icardi"
+      },
+      {
+        "id": 12,
+        "ad": "Wilfried Zaha"
+      },
+      {
+        "id": 13,
+        "ad": "Barış Alper Yılmaz"
+      },
+      {
+        "id": 14,
+        "ad": "Cedric Bakambu"
+      },
+      {
+        "id": 15,
+        "ad": "Tanguy Ndombele"
+      },
+      {
+        "id": 16,
+        "ad": "Serge Aurier"
+      },
+      {
+        "id": 17,
+        "ad": "Carlos Vinícius"
+      },
+      {
+        "id": 18,
+        "ad": "Tetê"
+      }
+    ],
+    "toplamPuan": 68,
+    "id": 2,
+    "ad": "Galatasaray"
+  },
+  {
+    "oyuncular": [
+      {
+        "id": 1,
+        "ad": "Mert Günok"
+      },
+      {
+        "id": 2,
+        "ad": "Ersin Destanoğlu"
+      },
+      {
+        "id": 3,
+        "ad": "Gabriel Paulista"
+      },
+      {
+        "id": 4,
+        "ad": "Felix Uduokhai"
+      },
+      {
+        "id": 5,
+        "ad": "Omar Colley"
+      },
+      {
+        "id": 6,
+        "ad": "Daniel Amartey"
+      },
+      {
+        "id": 7,
+        "ad": "Arthur Masuaku"
+      },
+      {
+        "id": 8,
+        "ad": "Gedson Fernandes"
+      },
+      {
+        "id": 9,
+        "ad": "Al-Musrati"
+      },
+      {
+        "id": 10,
+        "ad": "Alex Oxlade-Chamberlain"
+      },
+      {
+        "id": 11,
+        "ad": "Milot Rashica"
+      },
+      {
+        "id": 12,
+        "ad": "Vincent Aboubakar"
+      },
+      {
+        "id": 13,
+        "ad": "Ciro Immobile"
+      },
+      {
+        "id": 14,
+        "ad": "Rafael Silva"
+      },
+      {
+        "id": 15,
+        "ad": "Emirhan Topçu"
+      },
+      {
+        "id": 16,
+        "ad": "Cher Ndour"
+      },
+      {
+        "id": 17,
+        "ad": "Can Keleş"
+      }
+    ],
+    "toplamPuan": 69,
+    "id": 3,
+    "ad": "Beşiktaş"
+  },
+  {
+    "oyuncular": [
+      {
+        "id": 1,
+        "ad": "Uğurcan Çakır"
+      },
+      {
+        "id": 2,
+        "ad": "Stefano Denswil"
+      },
+      {
+        "id": 3,
+        "ad": "Marc Bartra"
+      },
+      {
+        "id": 4,
+        "ad": "Eren Elmalı"
+      },
+      {
+        "id": 5,
+        "ad": "Jens Stryger Larsen"
+      },
+      {
+        "id": 6,
+        "ad": "Anastasios Bakasetas"
+      },
+      {
+        "id": 7,
+        "ad": "Marek Hamšík"
+      },
+      {
+        "id": 8,
+        "ad": "Manolis Siopis"
+      },
+      {
+        "id": 9,
+        "ad": "Edin Višća"
+      },
+      {
+        "id": 10,
+        "ad": "Trezeguet"
+      },
+      {
+        "id": 11,
+        "ad": "Umut Bozok"
+      },
+      {
+        "id": 12,
+        "ad": "Maxi Gómez"
+      },
+      {
+        "id": 13,
+        "ad": "Jean-Philippe Gbamin"
+      },
+      {
+        "id": 14,
+        "ad": "Enis Bardhi"
+      },
+      {
+        "id": 15,
+        "ad": "Djaniny"
+      }
+    ],
+    "toplamPuan": 65,
+    "id": 4,
+    "ad": "Trabzonspor"
+  },
+  {
+    "oyuncular": [
+      {
+        "id": 1,
+        "ad": "Volkan Babacan"
+      },
+      {
+        "id": 2,
+        "ad": "Lucas Lima"
+      },
+      {
+        "id": 3,
+        "ad": "Alexandru Epureanu"
+      },
+      {
+        "id": 4,
+        "ad": "Léo Duarte"
+      },
+      {
+        "id": 5,
+        "ad": "Hasan Ali Kaldırım"
+      },
+      {
+        "id": 6,
+        "ad": "Danijel Aleksić"
+      },
+      {
+        "id": 7,
+        "ad": "Mahmut Tekdemir"
+      },
+      {
+        "id": 8,
+        "ad": "Stefano Okaka"
+      },
+      {
+        "id": 9,
+        "ad": "Berkay Özcan"
+      },
+      {
+        "id": 10,
+        "ad": "Serdar Gürler"
+      }
+    ],
+    "toplamPuan": 64,
+    "id": 5,
+    "ad": "Başakşehir"
+  },
+  {
+    "oyuncular": [
+      {
+        "id": 1,
+        "ad": "Ertuğrul Taşkıran"
+      },
+      {
+        "id": 2,
+        "ad": "Ryan Donk"
+      },
+      {
+        "id": 3,
+        "ad": "Sadık Çiftpınar"
+      },
+      {
+        "id": 4,
+        "ad": "Tarkan Serbest"
+      },
+      {
+        "id": 5,
+        "ad": "Mortadha Ben Ouanes"
+      },
+      {
+        "id": 6,
+        "ad": "Valentin Eysseric"
+      },
+      {
+        "id": 7,
+        "ad": "Haris Hajradinović"
+      },
+      {
+        "id": 8,
+        "ad": "Ahmet Engin"
+      },
+      {
+        "id": 9,
+        "ad": "Stephane Bahoken"
+      },
+      {
+        "id": 10,
+        "ad": "Mamadou Fall"
+      }
+    ],
+    "toplamPuan": 62,
+    "id": 6,
+    "ad": "Kasımpaşa"
+  },
+  {
+    "oyuncular": [
+      {
+        "id": 1,
+        "ad": "Harun Tekin"
+      },
+      {
+        "id": 2,
+        "ad": "Alpaslan Öztürk"
+      },
+      {
+        "id": 3,
+        "ad": "Umut Bulut"
+      },
+      {
+        "id": 4,
+        "ad": "Pa Dibba"
+      },
+      {
+        "id": 5,
+        "ad": "Musa Çağıran"
+      },
+      {
+        "id": 6,
+        "ad": "Emrah Başsan"
+      },
+      {
+        "id": 7,
+        "ad": "Mehmet Murat Uçar"
+      },
+      {
+        "id": 8,
+        "ad": "Gökhan Süzen"
+      },
+      {
+        "id": 9,
+        "ad": "Cenk Ahmet Alkılıç"
+      },
+      {
+        "id": 10,
+        "ad": "Erencan Yardımcı"
+      }
+    ],
+    "toplamPuan": 60,
+    "id": 7,
+    "ad": "Eyüpspor"
+  },
+  {
+    "oyuncular": [
+      {
+        "id": 1,
+        "ad": "Ali Eren"
+      },
+      {
+        "id": 2,
+        "ad": "Akil"
+      },
+      {
+        "id": 3,
+        "ad": "Elif"
+      }
+    ],
+    "toplamPuan": 0,
+    "id": 8,
+    "ad": "LightScore"
+  }

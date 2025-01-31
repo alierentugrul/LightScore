@@ -1,0 +1,52 @@
+.white-bg {
+    -fx-background-color: #fff;
+}
+
+.hbox {
+    -fx-alignment: center right; /* Yatayda sola hizalama */
+    -fx-spacing: 1px;           /* Öğeler arası boşluk */
+}
+
+.hyperlink {
+    -fx-translate-y: -1px; /* Hyperlink'i 1px aşağı indirir */
+}
+
+.background-one {
+    -fx-background-image: url("../Images/background.jpg");
+}
+
+.background-menu {
+    -fx-background-image: url("../Images/menu_bckgrnd.jpg"); /*209cff 68e0cf*/
+}
+
+
+
+.btn {
+    -fx-background-color: linear-gradient(to bottom right, #4762ff, #20bdff);
+    -fx-cursor: hand;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+}
+
+.btn:hover {
+    -fx-background-color: linear-gradient(to bottom, #20bdff, #4762ff);
+}
+
+.textfield {
+    -fx-border-color: #fff;
+    -fx-border-width: .5px;
+}
+
+.textfield:focused {
+    -fx-border-color: linear-gradient(to bottom right, #16a47c, #2a827b);
+    -fx-border-width: .8px;
+}
+
+.gradient-logo {
+    -fx-fill: linear-gradient(to bottom right, #20bdff, #4762ff);
+}
+
+.gradient-text {
+    -fx-fill: linear-gradient(to bottom right, #4762ff, #20bdff); /* Degrade */
+
+}

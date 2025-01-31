@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "evSahibi": "Trabzonspor",
+    "deplasman": "Kasımpaşa",
+    "evSahibiSkor": 1,
+    "deplasmanSkor": 0
+  },
+  {
+    "id": 2,
+    "evSahibi": "Fenerbahçe",
+    "deplasman": "Eyüpspor",
+    "evSahibiSkor": 0,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 3,
+    "evSahibi": "Beşiktaş",
+    "deplasman": "Eyüpspor",
+    "evSahibiSkor": 1,
+    "deplasmanSkor": 0
+  },
+  {
+    "id": 4,
+    "evSahibi": "Galatasaray",
+    "deplasman": "Beşiktaş",
+    "evSahibiSkor": 4,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 5,
+    "evSahibi": "Başakşehir",
+    "deplasman": "Eyüpspor",
+    "evSahibiSkor": 3,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 6,
+    "evSahibi": "Galatasaray",
+    "deplasman": "Trabzonspor",
+    "evSahibiSkor": 0,
+    "deplasmanSkor": 2
+  },
+  {
+    "id": 7,
+    "evSahibi": "Trabzonspor",
+    "deplasman": "Eyüpspor",
+    "evSahibiSkor": 0,
+    "deplasmanSkor": 2
+  },
+  {
+    "id": 8,
+    "evSahibi": "Fenerbahçe",
+    "deplasman": "Kasımpaşa",
+    "evSahibiSkor": 2,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 9,
+    "evSahibi": "Beşiktaş",
+    "deplasman": "Başakşehir",
+    "evSahibiSkor": 3,
+    "deplasmanSkor": 3
+  },
+  {
+    "id": 10,
+    "evSahibi": "Beşiktaş",
+    "deplasman": "Trabzonspor",
+    "evSahibiSkor": 1,
+    "deplasmanSkor": 4
+  },
+  {
+    "id": 11,
+    "evSahibi": "Fenerbahçe",
+    "deplasman": "Trabzonspor",
+    "evSahibiSkor": 3,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 12,
+    "evSahibi": "Başakşehir",
+    "deplasman": "Kasımpaşa",
+    "evSahibiSkor": 4,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 13,
+    "evSahibi": "Galatasaray",
+    "deplasman": "Eyüpspor",
+    "evSahibiSkor": 3,
+    "deplasmanSkor": 2
+  },
+  {
+    "id": 14,
+    "evSahibi": "Fenerbahçe",
+    "deplasman": "Galatasaray",
+    "evSahibiSkor": 1,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 15,
+    "evSahibi": "Kasımpaşa",
+    "deplasman": "Eyüpspor",
+    "evSahibiSkor": 0,
+    "deplasmanSkor": 4
+  },
+  {
+    "id": 16,
+    "evSahibi": "Beşiktaş",
+    "deplasman": "Kasımpaşa",
+    "evSahibiSkor": 4,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 17,
+    "evSahibi": "Fenerbahçe",
+    "deplasman": "Başakşehir",
+    "evSahibiSkor": 2,
+    "deplasmanSkor": 1
+  },
+  {
+    "id": 18,
+    "evSahibi": "Fenerbahçe",
+    "deplasman": "Beşiktaş",
+    "evSahibiSkor": 4,
+    "deplasmanSkor": 3
+  },
+  {
+    "id": 19,
+    "evSahibi": "Galatasaray",
+    "deplasman": "Başakşehir",
+    "evSahibiSkor": 1,
+    "deplasmanSkor": 3
+  },
+  {
+    "id": 20,
+    "evSahibi": "Galatasaray",
+    "deplasman": "Kasımpaşa",
+    "evSahibiSkor": 3,
+    "deplasmanSkor": 2
+  },
+  {
+    "id": 21,
+    "evSahibi": "Trabzonspor",
+    "deplasman": "Başakşehir",
+    "evSahibiSkor": 3,
+    "deplasmanSkor": 3
+  },
+  {
+    "id": 22,
+    "evSahibi": "LightScore",
+    "deplasman": "Fenerbahçe",
+    "evSahibiSkor": 2,
+    "deplasmanSkor": 0
+  },
+  {
+    "id": 23,
+    "evSahibi": "Efot",
+    "deplasman": "Galatasaray",
+    "evSahibiSkor": 6,
+    "deplasmanSkor": 0
+  }
+]
